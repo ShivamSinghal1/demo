@@ -1,268 +1,276 @@
 {
-  "upsolve": {
-    "status": "OK",
-    "result": [
+   "upsolve":{
+      "status":"OK",
+      "result":[
+         {
+            "id":1388,
+            "name":"Codeforces Round #660 (Div. 2)",
+            "problems":[
+               {
+                  "contestId":1388,
+                  "index":"A",
+                  "name":"Captain Flint and Crew Recruitment",
+                  "type":"PROGRAMMING",
+                  "points":750.0,
+                  "rating":800,
+                  "tags":[
+                     "brute force",
+                     "greedy",
+                     "math",
+                     "number theory"
+                  ],
+                  "result":"solved"
+               },
+               {
+                  "contestId":1388,
+                  "index":"B",
+                  "name":"Captain Flint and a Long Voyage",
+                  "type":"PROGRAMMING",
+                  "points":1000.0,
+                  "rating":1000,
+                  "tags":[
+                     "greedy",
+                     "math"
+                  ],
+                  "result":"solved"
+               },
+               {
+                  "contestId":1388,
+                  "index":"C",
+                  "name":"Uncle Bogdan and Country Happiness",
+                  "type":"PROGRAMMING",
+                  "points":1500.0,
+                  "rating":1800,
+                  "tags":[
+                     "dfs and similar",
+                     "greedy",
+                     "math",
+                     "trees"
+                  ],
+                  "result":"solved"
+               },
+               {
+                  "contestId":1388,
+                  "index":"D",
+                  "name":"Captain Flint and Treasure",
+                  "type":"PROGRAMMING",
+                  "points":2000.0,
+                  "rating":2000,
+                  "tags":[
+                     "data structures",
+                     "dfs and similar",
+                     "graphs",
+                     "greedy",
+                     "implementation",
+                     "trees"
+                  ],
+                  "result":"upsolved"
+               },
+               {
+                  "contestId":1388,
+                  "index":"E",
+                  "name":"Uncle Bogdan and Projections",
+                  "type":"PROGRAMMING",
+                  "points":2750.0,
+                  "rating":2700,
+                  "tags":[
+                     "data structures",
+                     "geometry",
+                     "sortings"
+                  ],
+                  "result":"wrong"
+               }
+            ]
+         },
+         {
+            "id":1389,
+            "name":"Educational Codeforces Round 92 (Rated for Div. 2)",
+            "problems":[
+               {
+                  "contestId":1389,
+                  "index":"A",
+                  "name":"LCM Problem",
+                  "type":"PROGRAMMING",
+                  "rating":800,
+                  "tags":[
+                     "constructive algorithms",
+                     "greedy",
+                     "math",
+                     "number theory"
+                  ],
+                  "result":"solved"
+               },
+               {
+                  "contestId":1389,
+                  "index":"B",
+                  "name":"Array Walk",
+                  "type":"PROGRAMMING",
+                  "rating":1600,
+                  "tags":[
+                     "brute force",
+                     "dp",
+                     "greedy"
+                  ],
+                  "result":"solved"
+               },
+               {
+                  "contestId":1389,
+                  "index":"C",
+                  "name":"Good String",
+                  "type":"PROGRAMMING",
+                  "rating":1500,
+                  "tags":[
+                     "brute force",
+                     "dp",
+                     "greedy",
+                     "two pointers"
+                  ],
+                  "result":"upsolved"
+               },
+               {
+                  "contestId":1389,
+                  "index":"D",
+                  "name":"Segment Intersections",
+                  "type":"PROGRAMMING",
+                  "rating":2100,
+                  "tags":[
+                     "brute force",
+                     "greedy",
+                     "implementation",
+                     "math"
+                  ],
+                  "result":"wrong"
+               },
+               {
+                  "contestId":1389,
+                  "index":"E",
+                  "name":"Calendar Ambiguity",
+                  "type":"PROGRAMMING",
+                  "rating":2200,
+                  "tags":[
+                     "math",
+                     "number theory"
+                  ],
+                  "result":"wrong"
+               },
+               {
+                  "contestId":1389,
+                  "index":"F",
+                  "name":"Bicolored Segments",
+                  "type":"PROGRAMMING",
+                  "rating":2600,
+                  "tags":[
+                     "data structures",
+                     "dp",
+                     "graph matchings",
+                     "sortings"
+                  ],
+                  "result":"not_attempt"
+               },
+               {
+                  "contestId":1389,
+                  "index":"G",
+                  "name":"Directing Edges",
+                  "type":"PROGRAMMING",
+                  "rating":2800,
+                  "tags":[
+                     "dfs and similar",
+                     "dp",
+                     "graphs",
+                     "trees"
+                  ],
+                  "result":"not_attempt"
+               }
+            ]
+         }
+      ]
+   },
+   "ladder":{
+      "status":"OK",
+      "result":[
+         {
+            "name":"0-1-Tree",
+            "url":"https://codeforces.com/contest/1156/problem/D",
+            "prob_id":"1156D",
+            "tags":"['dfs and similar', 'divide and conquer', 'dp', 'dsu', 'trees']",
+            "contest_id":"1156",
+            "rating":"2200",
+            "index":"D",
+            "platform":"F",
+            "status":"solved"
+         },
+         {
+            "name":"2048",
+            "url":"https://codeforces.com/contest/413/problem/D",
+            "prob_id":"413D",
+            "tags":"['bitmasks', 'dp']",
+            "contest_id":"413",
+            "rating":"2000",
+            "index":"D",
+            "platform":"F",
+            "status":"solved"
+         },
+         {
+            "name":"505",
+            "url":"https://codeforces.com/contest/1391/problem/D",
+            "prob_id":"1391D",
+            "tags":"['bitmasks', 'brute force', 'constructive algorithms', 'dp', 'greedy', 'implementation']",
+            "contest_id":"1391",
+            "rating":"2000",
+            "index":"D",
+            "platform":"F",
+            "status":"unsolved"
+         },
+         {
+            "name":"A and B and Interesting Substrings",
+            "url":"https://codeforces.com/contest/519/problem/D",
+            "prob_id":"519D",
+            "tags":"['data structures', 'dp', 'two pointers']",
+            "contest_id":"519",
+            "rating":"1800",
+            "index":"D",
+            "platform":"F",
+            "status":"unsolved"
+         },
+         {
+            "name":"A and B and Lecture Rooms",
+            "url":"https://codeforces.com/contest/519/problem/E",
+            "prob_id":"519E",
+            "tags":"['binary search', 'data structures', 'dfs and similar', 'dp', 'trees']",
+            "contest_id":"519",
+            "rating":"2100",
+            "index":"E",
+            "platform":"F",
+            "status":"unsolved"
+         },
+         {
+            "name":"A Game with Traps",
+            "url":"https://codeforces.com/contest/1260/problem/D",
+            "prob_id":"1260D",
+            "tags":"['binary search', 'dp', 'greedy', 'sortings']",
+            "contest_id":"1260",
+            "rating":"1900",
+            "index":"D",
+            "platform":"F",
+            "status":"unsolved"
+         }
+      ],
+      "nextPage":"link to next page",
+      "prevPage":"link to prev page"
+   },
+   "comments":[
       {
-        "id": 1388,
-        "name": "Codeforces Round #660 (Div. 2)",
-        "problems": [
-          {
-            "contestId": 1388,
-            "index": "A",
-            "name": "Captain Flint and Crew Recruitment",
-            "type": "PROGRAMMING",
-            "points": 750.0,
-            "rating": 800,
-            "tags": [
-              "brute force",
-              "greedy",
-              "math",
-              "number theory"
-            ],
-            "result" : "solved"
-          },
-          {
-            "contestId": 1388,
-            "index": "B",
-            "name": "Captain Flint and a Long Voyage",
-            "type": "PROGRAMMING",
-            "points": 1000.0,
-            "rating": 1000,
-            "tags": [
-              "greedy",
-              "math"
-            ],
-            "result" : "solved"
-          },
-          {
-            "contestId": 1388,
-            "index": "C",
-            "name": "Uncle Bogdan and Country Happiness",
-            "type": "PROGRAMMING",
-            "points": 1500.0,
-            "rating": 1800,
-            "tags": [
-              "dfs and similar",
-              "greedy",
-              "math",
-              "trees"
-            ],
-            "result" : "solved"
-          },
-          {
-            "contestId": 1388,
-            "index": "D",
-            "name": "Captain Flint and Treasure",
-            "type": "PROGRAMMING",
-            "points": 2000.0,
-            "rating": 2000,
-            "tags": [
-              "data structures",
-              "dfs and similar",
-              "graphs",
-              "greedy",
-              "implementation",
-              "trees"
-            ],
-            "result" : "upsolved"
-          },
-          {
-            "contestId": 1388,
-            "index": "E",
-            "name": "Uncle Bogdan and Projections",
-            "type": "PROGRAMMING",
-            "points": 2750.0,
-            "rating": 2700,
-            "tags": [
-              "data structures",
-              "geometry",
-              "sortings"
-            ],
-            "result" : "wrong"
-          }
-        ]
+         "id":1,
+         "body":"some comment",
+         "postId":1
       },
       {
-        "id": 1389,
-        "name": "Educational Codeforces Round 92 (Rated for Div. 2)",
-        "problems": [
-          {
-            "contestId": 1389,
-            "index": "A",
-            "name": "LCM Problem",
-            "type": "PROGRAMMING",
-            "rating": 800,
-            "tags": [
-              "constructive algorithms",
-              "greedy",
-              "math",
-              "number theory"
-            ],
-            "result" : "solved"
-          },
-          {
-            "contestId": 1389,
-            "index": "B",
-            "name": "Array Walk",
-            "type": "PROGRAMMING",
-            "rating": 1600,
-            "tags": [
-              "brute force",
-              "dp",
-              "greedy"
-            ],
-            "result" : "solved"
-          },
-          {
-            "contestId": 1389,
-            "index": "C",
-            "name": "Good String",
-            "type": "PROGRAMMING",
-            "rating": 1500,
-            "tags": [
-              "brute force",
-              "dp",
-              "greedy",
-              "two pointers"
-            ],
-            "result" : "upsolved"
-          },
-          {
-            "contestId": 1389,
-            "index": "D",
-            "name": "Segment Intersections",
-            "type": "PROGRAMMING",
-            "rating": 2100,
-            "tags": [
-              "brute force",
-              "greedy",
-              "implementation",
-              "math"
-            ],
-            "result" : "wrong"
-          },
-          {
-            "contestId": 1389,
-            "index": "E",
-            "name": "Calendar Ambiguity",
-            "type": "PROGRAMMING",
-            "rating": 2200,
-            "tags": [
-              "math",
-              "number theory"
-            ],
-            "result" : "wrong"
-          },
-          {
-            "contestId": 1389,
-            "index": "F",
-            "name": "Bicolored Segments",
-            "type": "PROGRAMMING",
-            "rating": 2600,
-            "tags": [
-              "data structures",
-              "dp",
-              "graph matchings",
-              "sortings"
-            ],
-            "result" : "not_attempt"
-          },
-          {
-            "contestId": 1389,
-            "index": "G",
-            "name": "Directing Edges",
-            "type": "PROGRAMMING",
-            "rating": 2800,
-            "tags": [
-              "dfs and similar",
-              "dp",
-              "graphs",
-              "trees"
-            ],
-            "result" : "not_attempt"
-          }
-        ]
+         "id":2,
+         "body":"some comment",
+         "postId":1
       }
-    ]
-  },
-  "ladder" : {
-      "status" : "OK",
-      "result" : [   
-          {
-              "name": "0-1-Tree",
-              "url": "https://codeforces.com/contest/1156/problem/D",
-              "prob_id": "1156D",
-              "tags": "['dfs and similar', 'divide and conquer', 'dp', 'dsu', 'trees']",
-              "contest_id": "1156",
-              "rating": "2200",
-              "index": "D",
-              "platform": "F",
-              "status" : "solved",
-          },
-          {
-              "name": "2048",
-              "url": "https://codeforces.com/contest/413/problem/D",
-              "prob_id": "413D",
-              "tags": "['bitmasks', 'dp']",
-              "contest_id": "413",
-              "rating": "2000",
-              "index": "D",
-              "platform": "F",
-              "status" : "solved",
-          },
-          {
-              "name": "505",
-              "url": "https://codeforces.com/contest/1391/problem/D",
-              "prob_id": "1391D",
-              "tags": "['bitmasks', 'brute force', 'constructive algorithms', 'dp', 'greedy', 'implementation']",
-              "contest_id": "1391",
-              "rating": "2000",
-              "index": "D",
-              "platform": "F",
-              "status" : "unsolved",
-          },
-          {
-              "name": "A and B and Interesting Substrings",
-              "url": "https://codeforces.com/contest/519/problem/D",
-              "prob_id": "519D",
-              "tags": "['data structures', 'dp', 'two pointers']",
-              "contest_id": "519",
-              "rating": "1800",
-              "index": "D",
-              "platform": "F",
-              "status" : "unsolved",
-          },
-          {
-              "name": "A and B and Lecture Rooms",
-              "url": "https://codeforces.com/contest/519/problem/E",
-              "prob_id": "519E",
-              "tags": "['binary search', 'data structures', 'dfs and similar', 'dp', 'trees']",
-              "contest_id": "519",
-              "rating": "2100",
-              "index": "E",
-              "platform": "F",
-              "status" : "unsolved",
-          },
-          {
-              "name": "A Game with Traps",
-              "url": "https://codeforces.com/contest/1260/problem/D",
-              "prob_id": "1260D",
-              "tags": "['binary search', 'dp', 'greedy', 'sortings']",
-              "contest_id": "1260",
-              "rating": "1900",
-              "index": "D",
-              "platform": "F",
-              "status" : "unsolved",
-          }
-      ],
-      "nextPage" : "link to next page",
-      "prevPage" : "link to prev page"
-  },
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   ],
+   "profile":{
+      "name":"typicode"
+   }
 }
